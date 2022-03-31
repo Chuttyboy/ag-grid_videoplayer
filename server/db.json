@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hari",
+      "email": "raj@gmail.com",
+      "phone": "9876543210",
+      "dob": "/home/fraction/Music/agGrid-crudOperation/src/video.mp4"
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "/home/fraction/Music/agGrid-crudOperation/src/video.mp4",
+      "id": 5
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "/home/fraction/Music/agGrid-crudOperation/src/video.mp4",
+      "id": 6
+    },
+    {
+      "name": "Hari",
+      "email": "vikas62081@gmail.com",
+      "phone": "9876543210",
+      "dob": "/home/fraction/Music/agGrid-crudOperation/src/video.mp4",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "id": 8
+    }
+  ]
+}
